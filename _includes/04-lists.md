@@ -2,3 +2,4 @@
 - long walks
 - disco dancing
 - hiking
+- jumping
